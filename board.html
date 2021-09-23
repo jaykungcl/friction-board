@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>::Friction Board::</title>
+</head>
+<body>
+    <div class="container">
+        <div class="board">
+            <div class="ball">
+    
+            </div>
+            <div class="cue">
+                
+            </div>
+        </div>
+        <div class="controller">
+            <h1 class="title">Friction Board</h2>
+            <div class="size">
+                <select name="size" id="size">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+                <label for="size">Size</label>
+            </div>
+            <div class="friction">
+                <input id="friction" type="range" min="1" max="99">
+                <label for="friction">Friction</label>
+            </div>
+            
+            <button id="reset">Reset</button>
+            
+        </div>
+    </div>
+    <footer>Copyright &#169 C. Lertkultanon</footer>
+
+    <script src="game.js"></script>
+</body>
+</html>
