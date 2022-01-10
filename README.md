@@ -4,9 +4,9 @@ Video Demo: https://youtu.be/FJQNHWWyzEY
 
 Try it out yourself at: https://friction-board.web.app
 
-Description:
+#### Description:
 
-Language: HTML, CSS and Vanilla JavaScripts
+*Language*: HTML, CSS and Vanilla JavaScripts
 
 This project emerge from the idea that I wanted to create a virtual world that obey laws of Physics. Angry Birds is one of a kind, where you have to determine path of rocks to destroy the evil castle. When you drag to aim, it does not only determine the direction but also the force. I though it will be very challenging to writh the logic that moves object that way.
 
@@ -16,7 +16,7 @@ So I decided to wrote it from scratch, but starting from virtual world in 2D. My
 
 This is a very simple project, focusing only on the logic that make an object moves according to the equation. So it is consisted of only 1 HTML, 1 CSS, and 1 JavaScripts file.
 
---- How it Works ---
+### How it Works
 
 This ball moves in 400*400 px scapce acoording to equation of movement in 1D, but the vectors (distance, velocity, acceleration) has to be divided and calculate seperately in X and Y directions. s represents distance v represents velocity a represents acceleration
 
