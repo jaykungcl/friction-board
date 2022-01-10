@@ -6,7 +6,7 @@ Try it out yourself at: https://friction-board.web.app
 
 #### Description:
 
-*Language*: HTML, CSS and Vanilla JavaScripts
+**Language**: HTML, CSS and Vanilla JavaScripts
 
 This project emerge from the idea that I wanted to create a virtual world that obey laws of Physics. Angry Birds is one of a kind, where you have to determine path of rocks to destroy the evil castle. When you drag to aim, it does not only determine the direction but also the force. I though it will be very challenging to writh the logic that moves object that way.
 
@@ -32,4 +32,4 @@ I tried to make UI easy to understand as much as possible. In order to move the 
 
 I wrote every line of code in here myself and I am very proud of it :)
 
-Please enjoy my little playground!
+***Please enjoy my little playground!***
